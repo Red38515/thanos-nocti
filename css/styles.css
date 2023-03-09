@@ -1,0 +1,134 @@
+/* CSS Document */
+
+
+/* reqired stuff for NOCTI exam
+body {
+	
+}
+
+h1 {
+	
+}
+h2{
+	
+}
+
+a:hover {
+	
+}
+
+blockquote {
+	
+}
+
+table {
+	
+}
+*/
+
+html, body, header, nav, h1, ul, li, a, img, header, h2, p, table, th, tr {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+img {
+	max-width: 100%;
+}
+
+body {
+	background-color: purple;
+}
+
+header {
+	padding: 1%;
+	width: 100%;
+}
+header h1 {
+	font-size: 4em;
+	color: orange;
+}
+header ul {
+	list-style-type: none;
+}
+header li {
+	display: inline-block;
+	padding: 0 1%;
+}
+header a {
+	text-decoration: none;
+	font-size: 3em;
+}
+header a:hover {
+	color: gold;
+}
+
+/* infinity stone */
+.space {
+	color: blue;
+}
+.reality {
+	color: red;
+}
+.power {
+	color: darkviolet;
+}
+.mind {
+	color: yellow;
+}
+.time {
+	color: green;
+}
+
+main h1 {
+	padding: 2% 2% 0;
+	font-size: 2em;
+}
+main p {
+	padding: 2%;
+	font-size: 1.5em;
+}
+
+#form {
+	margin: 0 auto;
+	padding: 2%;
+}
+fieldset, input, select, textarea {
+	margin-bottom: 2%;
+}
+fieldset legend {
+	font-weight: bold;
+	font-size: 1.25em;
+}
+label {
+	display: block;
+	padding-top: 3%;
+}
+form #submit {
+	margin: 0 auto;
+	border: none;
+	display: block;
+	padding: 2%;
+	font-size: 1em;
+	border-radius: 10px;
+}
+
+
+footer {
+	background-color: gold;  
+	padding: 2%;
+}
+footer p {
+	text-align: center;
+}
+footer ul {
+	list-style-type: none;
+}
+footer li {
+	
+}
+footer a {
+	text-decoration: none;
+}
+
+
